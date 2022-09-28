@@ -17,7 +17,7 @@
 ### IPEX
 These tools were programmed and tested by the hacker A.X.E.L and These tools are used to make dos attack to any website server
 ### INSTALLATION
-- Just, Follow steps-
+- Just, Follow steps
 ```
 $ git clone https://github.com/7AXEL/DOS
 ```
