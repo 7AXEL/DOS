@@ -14,7 +14,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/   DISCLAIMER   -yellow?style=for-the-badge">
 
-### IPEX
+### DOS
 These tools were programmed and tested by the hacker A.X.E.L and These tools are used to make dos attack to any website server
 ### INSTALLATION
 - Just, Follow steps
